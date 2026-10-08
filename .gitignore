@@ -5,3 +5,5 @@ __pycache__/
 .venv/
 *.pbix.bak
 .ipynb_checkpoints/
+data/*.duckdb
+data/*.duckdb.wal
