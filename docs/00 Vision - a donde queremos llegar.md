@@ -78,7 +78,7 @@ La historia que contás en una entrevista: *"Quería comprar un lote, así que m
 ## Decisiones tomadas (08.10.2026)
 1. **Universal por diseño, Margaret River primero.**
    - Todo se arma por geografía (zona, código postal, coordenadas) y la región es un parámetro. Sumar otra zona = agregar datos, no reescribir.
-   - **Primera región:** Margaret River ± 50 km: Margaret River, Prevelly, Gnarabup, Cowaramup, Gracetown, Witchcliffe, Karridale, Augusta, Yallingup, Dunsborough, Quindalup, Vasse, Busselton y alrededores.
+   - **Primera región:** Margaret River y alrededores (≈ 45 km, **sin Busselton ni Vasse**): Margaret River, Prevelly, Gnarabup, Cowaramup, Gracetown, Witchcliffe, Karridale, Augusta, Yallingup, Dunsborough, Quindalup y Eagle Bay.
    - **Mapa interactivo:** te movés por el mapa y cada zona se pinta según rendimiento, crecimiento, fase del ciclo y señal de timing ("por acá sí / por acá no / vigilar"). Hacés clic en una zona o un lote y ves el detalle y el informe.
 2. **Analiza las 3 estrategias y las compara:** (a) comprar lote y construir, (b) comprar propiedad establecida, (c) comprar para renovar. Pregunta central: *¿es buen negocio comprar hoy, y con qué estrategia?*
 3. **Costos de obra:** de constructoras y oficios de la zona (Magma no sirve: está en Indonesia).
